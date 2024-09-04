@@ -8,7 +8,7 @@ investors.
 * The visualizations revealed significant trends, such as the preference for stock investments among male investors, while
 female investors showed a stronger inclination towards mutual funds and government bonds.
 
-𝐅𝐢𝐫𝐬𝐭 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 :
+# First Dashboard :
 
 ➤ 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐀𝐠𝐞 :
 
